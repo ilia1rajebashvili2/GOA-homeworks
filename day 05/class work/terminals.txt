@@ -1,0 +1,10 @@
+String = პრჭყალებში მოთავსებული ტექსტი
+Quotation marks = "" პრჭყალებს ნიშნავს
+Integer = მთელი რიცხვი
+Float = წილადი რიცხვი
+concatenation = სტრინგების შეერთება
+parenthesis = () ფრჩხილები
+declare = ცვლადის დეკლარირება(შექმნა)
+str = string
+int = Integer
+float = Float

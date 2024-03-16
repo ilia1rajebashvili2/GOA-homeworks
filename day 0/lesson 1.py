@@ -1,7 +1,7 @@
 from turtle import *
 
 
-# we want to pain a house
+# we want to paint a house
 
 speed(30)
 width(7)

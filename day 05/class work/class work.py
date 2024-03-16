@@ -1,0 +1,3 @@
+name="ilia"
+
+print(name)

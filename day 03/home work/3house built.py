@@ -325,8 +325,11 @@ right(90)
 forward(840)
 right(90)
 forward(1350)
-right(90)
-forward(640)
+
+
+
+
+
 
 exitonclick()
 

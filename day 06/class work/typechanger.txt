@@ -1,0 +1,9 @@
+str = string
+int = inger
+float = float
+data conevtion = type changer
+
+
+
+inplicit=ავტომატური
+explicit=მექანიკური 
