@@ -1,0 +1,4 @@
+print (9>7)
+print (10>7)
+print (123>121)
+print (123>5)
